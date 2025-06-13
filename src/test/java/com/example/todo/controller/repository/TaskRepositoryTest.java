@@ -1,4 +1,4 @@
-package com.example.todo.repository;
+package com.example.todo.controller.repository;
 
 import com.example.todo.model.Task;
 import org.junit.jupiter.api.Test;
